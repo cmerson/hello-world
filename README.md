@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello everyone!
+
+Colleen here from Massachusetts. Working the 9-5.
